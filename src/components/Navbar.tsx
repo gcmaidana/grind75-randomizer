@@ -7,7 +7,7 @@ const Navbar: React.FC = () => {
         {/* Home Link */}
         <li>
           <a
-            href="https://geanmaidana.com"
+            href="https://gcmaidana.com"
             className="text-white relative px-3 py-1 transition-colors duration-300 hover:text-orange-500"
           >
             Back to Personal Website
